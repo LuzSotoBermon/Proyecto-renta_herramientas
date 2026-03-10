@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RentaHerramientaApplication<renta_herramienta>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.renta_herramientas.renta_herramienta.RentaHerramientaApplication",
+            "projectName": "renta_herramienta",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
