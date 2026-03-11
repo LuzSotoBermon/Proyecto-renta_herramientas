@@ -1,5 +1,9 @@
 package com.renta_herramientas.renta_herramienta.controllers.dto;
 
-public class LoginDTO {
+import lombok.Data;
 
+@Data
+public class LoginDTO {
+    private String username;
+    private String password;
 }

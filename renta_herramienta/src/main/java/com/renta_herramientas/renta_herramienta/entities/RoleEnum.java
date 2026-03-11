@@ -1,5 +1,12 @@
 package com.renta_herramientas.renta_herramienta.entities;
 
 public enum RoleEnum {
+    ADMINISTRADOR,
+    PROVEEDOR,
+    CLIENTE
 
 }
+
+
+
+
